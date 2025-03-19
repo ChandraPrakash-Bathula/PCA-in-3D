@@ -21,7 +21,6 @@ Transform word embeddings into an **interactive 3D masterpiece**! This project t
 1. **Clone the Repo**:
    ```bash
    git clone [https://github.com/ChandraPrakash-Bathula/PCA-in-3D.git]
-   cd 3d-word2vec-visualization
    ```
 2. **Install Requirements**:
    ```bash
