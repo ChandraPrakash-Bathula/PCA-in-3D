@@ -24,9 +24,8 @@ Transform word embeddings into an **interactive 3D masterpiece**! This project t
    ```
 2. **Install Requirements**:
    ```bash
-   pip install gensim scikit-learn plotly numpy
+   pip install gensim scikit-learn plotly numpy glove model
    ```
-   *(Or do it manually: `pip install`)*  
 3. **Run the Script**:
    - Multiple themes available
 
