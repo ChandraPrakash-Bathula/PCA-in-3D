@@ -1,7 +1,5 @@
 # PCA-in-3D
-# 3D Word2Vec Embedding Visualization 🚀 : 3D visualizations of vector embeddings.
-
-
+# 3D Visualization : 3D visualizations of Word2vector embeddings 🚀
 
 Transform word embeddings into an **interactive 3D masterpiece**! This project takes the pretrained `word2vec-google-news-300` model, reduces its 300-dimensional vectors to 3D with PCA, and visualizes them using Plotly. Words like "king," "queen," "doctor," and "cat" dance in space with dynamic colors, direction vectors, and a semantic core—revealing the hidden structure of language in NLP.
 
