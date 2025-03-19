@@ -1,10 +1,7 @@
 # PCA-in-3D
-3D visualizations of vector embeddings.
-Yo, mowa! Here’s a GitHub-ready README for your project—clean, professional, and spiced up just enough to grab attention. It’s tailored for your code with the two themes (dark cosmic and light blue) and formatted with Markdown for that sweet GitHub rendering. Check it:
+# 3D Word2Vec Embedding Visualization 🚀 : 3D visualizations of vector embeddings.
 
----
 
-# 3D Word2Vec Embedding Visualization 🚀
 
 Transform word embeddings into an **interactive 3D masterpiece**! This project takes the pretrained `word2vec-google-news-300` model, reduces its 300-dimensional vectors to 3D with PCA, and visualizes them using Plotly. Words like "king," "queen," "doctor," and "cat" dance in space with dynamic colors, direction vectors, and a semantic core—revealing the hidden structure of language in NLP.
 
@@ -25,7 +22,7 @@ Transform word embeddings into an **interactive 3D masterpiece**! This project t
 ## 📦 Installation
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone [https://github.com/ChandraPrakash-Bathula/PCA-in-3D.git]
    cd 3d-word2vec-visualization
    ```
 2. **Install Requirements**:
