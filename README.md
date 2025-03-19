@@ -27,12 +27,12 @@ Transform word embeddings into an **interactive 3D masterpiece**! This project t
    ```
 2. **Install Requirements**:
    ```bash
-   pip install -r requirements.txt
+   pip install gensim scikit-learn plotly numpy
    ```
    *(Or manually: `pip install gensim scikit-learn plotly numpy`)*  
 3. **Run the Script**:
-   - Dark theme: `python word2vec_3d_dark.py`
-   - Light theme: `python word2vec_3d_light.py`
+   - Dark theme
+   - Light theme
 
 ## 🚀 Usage
 - Run either script to launch the visualization.
@@ -60,14 +60,3 @@ Fork it, tweak it, PR it! Ideas welcome—let’s make this even wilder.
 - Thanks to Gensim, Scikit-learn, and Plotly for the open-source juice.
 
 ---
-
-### Notes:
-- **Repo Setup**: Assumes you’ll host this on GitHub (replace `<your-username>/<your-repo>` with your actual URL).
-- **Files**: Suggests splitting into `word2vec_3d_dark.py` and `word2vec_3d_light.py`. If it’s one file, tweak the "Run the Script" part to say “Edit the `layout` for your theme.”
-- **Requirements**: Add a `requirements.txt` with:
-  ```
-  gensim
-  scikit-learn
-  plotly
-  numpy
-  ```
