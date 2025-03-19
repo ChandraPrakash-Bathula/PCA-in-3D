@@ -26,10 +26,9 @@ Transform word embeddings into an **interactive 3D masterpiece**! This project t
    ```bash
    pip install gensim scikit-learn plotly numpy
    ```
-   *(Or manually: `pip install gensim scikit-learn plotly numpy`)*  
+   *(Or do it manually: `pip install`)*  
 3. **Run the Script**:
-   - Dark theme
-   - Light theme
+   - Multiple themes available
 
 ## 🚀 Usage
 - Run either script to launch the visualization.
