@@ -1,5 +1,6 @@
 # PCA-in-3D
-![image](https://github.com/user-attachments/assets/b5ac35e7-c1ca-44d8-8977-f2ff597f65e4)
+![image](https://github.com/user-attachments/assets/e39581f6-bfe0-454e-89de-45926f040abf)
+
 
 # 3D Visualization : 3D visualizations of Word2vector embeddings 🚀
 
